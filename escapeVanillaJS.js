@@ -65,3 +65,4 @@ async function navigateLabyrinth(directions) {
   // Return a completion message after all directions have been processed
   return "Congratulations! You've mastered the essentials of Vanilla JavaScript. Welcome to the world of React, where you'll build powerful and dynamic web applications. Let's dive in!";
 }
+                
